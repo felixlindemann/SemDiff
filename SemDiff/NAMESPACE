@@ -1,0 +1,3 @@
+export(as.Construct)
+export(is.Construct)
+exportClasses(Construct)
